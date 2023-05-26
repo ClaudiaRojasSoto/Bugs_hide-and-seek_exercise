@@ -54,8 +54,11 @@ git clone git@github.com:ClaudiaRojasSoto/Bugs_hide-and-seek_exercise.git
 
 👤 **Andres Zamorano**
 
-- GitHub: [@](https://github.com/)
+- GitHub: [@Andy](https://github.com/Dachrono)
 
+👤 **Andres Zamorano**
+
+- GitHub: [@PabloBona](https://github.com/Pablobona)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
